@@ -1,0 +1,14 @@
+{
+  "name": "My Test Service Worker",
+  "short_name": "My SW",
+  "icons": [{
+    "src": "/bear.png",
+    "sizes": "512X512",
+    "type": "image/png"
+  }],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ED4544",
+  "theme_color": "#000"
+}
